@@ -1,5 +1,5 @@
 # Goal
-Datasets of text come in various and complex forms. This repository contains the logic for processing datasets structured in different ways to uniformly return text embeddings of the data. Explicitly, the user should only need to specify the directory to the dataset and provide an implementation of how to extract chunks of text from a single file in the dataset. 
+Datasets of text come in various and complex forms. This repository contains the logic for processing datasets structured in different ways to uniformly return text embeddings of the data. Explicitly, the user should only need to specify the directory to the dataset and provide an implementation of how to extract chunks of text from files/directories in the dataset. 
 
 # Setup
 
